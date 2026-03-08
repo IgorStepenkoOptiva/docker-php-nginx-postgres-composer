@@ -3,6 +3,8 @@ Docker Compose configuration to run PHP 8.3 with Nginx, PHP-FPM, PostgreSQL 17.8
 
 ## Overview
 
+    This is the fork of https://github.com/ineat/docker-php-nginx-postgres-composer with the fresh versions of the services and some improvements.
+
 This Docker Compose configuration lets you run easily PHP 7.1 with Nginx, PHP-FPM, PostgreSQL 10.1 and Composer.
 It exposes 4 services:
 
