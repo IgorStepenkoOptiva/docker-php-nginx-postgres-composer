@@ -18,6 +18,9 @@ The UUID extension for PostgreSQL has been added.
 Nginx default configuration is set up for Symfony 4 (but can be easily changed) and will serve your working directory.
 Composer is run at boot time and will automatically install the vendors.
 
+The PHP folder is ./public
+The folrder keeping Postgres DB files is ./postgres_data
+
 ## Install prerequisites
 
 For now the project has been tested on Linux only but should run fine on Docker for Windows and Docker for Mac.
